@@ -1,0 +1,28 @@
+.theme-dark {
+    --main-color: #11111b;
+    --main-alt: #181825;
+	  --accent-secondary-color: #cba6f4;
+	  --accent-secondary-text-color: #cdd6f4;
+
+    --message-color: #cdd6f4;
+    --message-color-hover: #313244;
+    --message-color-alt: #1e1e2e;
+    --attachment-color: #11111b;
+
+    --accent-text-color: #cdd6f4;
+
+    --main-textarea-color: #313244;
+    --main-textarea-color-alt: #6c7086;
+    --status-picker-color: #313244;
+
+    --tooltip-color: #181825;
+    --popout-color: #181825;
+    --popout-color-alt: #11111b;
+    --popout-header-border: #cdd6f4;
+    --separator-color: #cdd6f4;
+    --sidebar-panel-color: #181825;
+    --server-color: #313244;
+
+  	--tooltip-color: #181825;
+  	--tooltip-text-color: #cdd6f4;
+}
